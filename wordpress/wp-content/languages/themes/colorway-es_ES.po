@@ -1,0 +1,2488 @@
+# Translation of Themes - Colorway in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Colorway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 18:46:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Colorway\n"
+
+#. Description of the theme
+msgid "Colorway is the one theme that you’ll ever need! It’s lightening fast, responsive, extremely light weight and translation ready. With Colorway, you can create a website for any kind of businesses like e-commerce, restaurants, startups, online agencies, small firms, freelancers and more. It is designed to work with all the prominent page builders namely Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin, Thrive Architect and a lot more. Also, with the integration of Colorway Sites Plugin, you can get a key to numerous pre-built SEO optimized website templates which are ready to use in a single click! So, you can create a web template using any of the site builder or can go for the creatively designed pre-built templates. Colorway offers you a lot of elements like sliders, multi-column featured area, multiple page layouts (boxed & full-width) and more for an eye-pleasing web design. Then, it has a live customizer using which you can customize almost every element like colors, fonts, sliders, and a lot more. Also, it is compatible with WooCommerce so, you can create an e-commerce website in a single click!"
+msgstr "¡ColorWay es el único tema que necesitas! Es rápido como un rayo, adaptable, extremadamente ligero y está listo para ser traducido. Con ColorWay, puedes crear un sitio para cualquier tipo de negocio como e-commerce, restaurantes, startups, agencias en línea, pequeñas empresas, freelancers y más. Está diseñado para funcionar con todos los constructores de páginas prominentes como Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin, Thrive Architect y muchos más. Además, con la integración del plugin de sitios de ColorWay, puedes obtener una clave para numerosas plantillas de sitios web optimizadas para SEO preconstruidas que están listas para usar en un solo clic Por lo tanto, puedes crear una plantilla web utilizando cualquiera de los constructores de sitios o puede optar por las plantillas prediseñadas y diseñadas de forma creativa. ColorWay te ofrece una gran cantidad de elementos como carruseles, áreas de varias columnas, múltiples diseños de páginas (en caja y a todo lo ancho) y mucho más para un diseño web agradable a la vista. Además, tiene un personalizador en vivo que permite personalizar casi todos los elementos como colores, fuentes, carruseles y mucho más. Además, es compatible con WooCommerce, por lo que ¡puedes crear un sitio web de comercio electrónico con un solo clic!"
+
+#. Theme Name of the theme
+#: includes/colorway-admin-settings/view-general.php:26
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:97
+msgid "Colorway"
+msgstr "ColorWay"
+
+#. translators: 1: date, 2: time
+#: functions/inkthemes-functions.php:171
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: functions/inkthemes-plugin-notify.php:56
+msgid "Install/Activate Recommended Plugins"
+msgstr "Instalar/activar los plugins recomendados"
+
+#: functions.php:464 functions.php:473
+msgid "Get Started with Colorway"
+msgstr "Primeros pasos con Colorway"
+
+#: functions.php:98
+msgid "Processing "
+msgstr "Procesando"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: functions/plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#. translators: 1: install status, 2: update status
+#: functions/plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: functions/plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: functions/plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins obligatorios o recomendados pendientes de instalar, actualizar o activar."
+
+#. translators: %s: plugin name.
+#: functions/plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#: functions.php:100 functions.php:480 functions.php:484
+msgid "Start Building With Elementor »"
+msgstr "Empieza a construir con Elementor »"
+
+#: includes/customizer.php:2197
+msgid "Set Read More Button Hover Border Color for Theme."
+msgstr "Configura el color del borde al pasar el cursor en el botón «Leer más» del tema."
+
+#: includes/customizer.php:2196
+msgid "Read More Button Hover Border Color"
+msgstr "Color del borde del botón Leer más al pasar el cursor"
+
+#: includes/customizer.php:2187
+msgid "Set Read More Button Border Color for Theme."
+msgstr "Establecer el color de borde del botón «Leer más» del tema."
+
+#: includes/customizer.php:2186
+msgid "Read More Button Border Color"
+msgstr "Color de borde del botón «Leer más»"
+
+#: includes/customizer.php:2176
+msgid "Turn on or off the Read More Button-Border as per your requirement."
+msgstr "Activa o desactiva el borde del botón «Leer más» según tus necesidades."
+
+#: includes/customizer.php:2175
+msgid "Read More Button-Border On/Off"
+msgstr "Activar/desactivar el borde del botón «Leer más»"
+
+#: functions.php:434
+msgid "out of 5"
+msgstr "sobre 5"
+
+#: includes/customizer.php:2168
+msgid "Here mention the text for Read Now Button"
+msgstr "Aquí se menciona el texto del botón de «Leer ahora»"
+
+#: includes/customizer.php:2167
+msgid "Read More Button Custom Text"
+msgstr "Texto personalizado del botón Leer más"
+
+#: includes/customizer.php:1007
+msgid "Enter your Excerpt length"
+msgstr "Introduce la longitud del extracto"
+
+#: includes/customizer.php:1006
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: includes/customizer.php:252
+msgid "<br><i>Allows you to Configure the excerpt length</i>"
+msgstr "<br><i>Te permite configurar la longitud del extracto</i>"
+
+#: includes/customizer.php:251
+msgid "Excerpt Length Setting"
+msgstr "Ajuste de longitud del extracto"
+
+#: includes/customizer.php:1980
+msgid "Set Sticky Menu Hover Link Color for Header."
+msgstr "Establece el color del enlace al pasar el cursor del menú fijo de la cabecera."
+
+#: includes/customizer.php:1979
+msgid "Sticky Menu Hover Link Color"
+msgstr "Color del enlace del menú fijo al pasar el cursor"
+
+#: includes/customizer.php:1971
+msgid "Set Sticky Menu Hover background Color for Header."
+msgstr "Establece el color de fondo del menú fijo al pasar el cursor para la cabecera."
+
+#: includes/customizer.php:1970
+msgid "Sticky Menu Hover Background Color"
+msgstr "Color de fondo del menú fijo al pasar el cursor"
+
+#: includes/customizer.php:1962
+msgid "Set Sticky Menu link Color for Header."
+msgstr "Establece el color del enlace del menú fijo en la cabecera."
+
+#: includes/customizer.php:1961
+msgid "Sticky Menu Link Color"
+msgstr "Color de los enlaces del menú fijo"
+
+#: includes/customizer.php:2876
+msgid "Set Read More Button Radius"
+msgstr "Establecer el radio del botón «Leer más»"
+
+#: includes/customizer.php:472
+msgid "Read More Button Color and Settings"
+msgstr "Color y ajustes del botón Leer más"
+
+#: includes/customizer.php:2159
+msgid "Set Button Hover Text Color for Theme."
+msgstr "Establece el color del texto al pasar el cursor de botón para el tema."
+
+#: includes/customizer.php:2158
+msgid "Button Hover Text Color"
+msgstr "Color de texto de los botones al pasar el cursor"
+
+#: includes/customizer.php:2150
+msgid "Set Button Hover Background Color for Theme."
+msgstr "Establece el color del fondo al pasar el cursor del botón para el tema."
+
+#: includes/customizer.php:2149
+msgid "Button Hover Background Color"
+msgstr "Color de fondo de los botones al pasar el cursor"
+
+#: includes/customizer.php:2141
+msgid "Set Button Text Color for Theme."
+msgstr "Establecer color de texto de los botones para el tema."
+
+#: includes/customizer.php:2140
+msgid "Button Text Color"
+msgstr "Color de texto del botón"
+
+#: includes/customizer.php:2132
+msgid "Set Button Background Color for Theme."
+msgstr "Establecer color de fondo de los botones para el tema."
+
+#: includes/customizer.php:2131
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: includes/customizer.php:1773
+msgid "Allows you to set Read More Button Font Size."
+msgstr "Te permite establecer el tamaño de fuente del botón Leer más."
+
+#: includes/customizer.php:1772
+msgid "Read More Button Font Size"
+msgstr "Tamaño de fuente del botón Leer más"
+
+#: includes/customizer.php:1663
+msgid "Allows you to set Read More Button Font Weight."
+msgstr "Te permite establecer el grosor de fuente del botón Leer más."
+
+#: includes/customizer.php:1662
+msgid "Read More Button Font Weight"
+msgstr "Grosor de fuente del botón Leer más"
+
+#: includes/customizer.php:1563
+msgid "Allows you to set Font Family For Read More Button."
+msgstr "Te permite establecer la familia tipográfica del botón Leer más."
+
+#: includes/customizer.php:1562
+msgid "Read More Button Font Family"
+msgstr "Familia tipográfica del botón Leer más"
+
+#: includes/customizer.php:473
+msgid "Allows you to change Button Colors for Colorway Theme."
+msgstr "Te permite cambiar los colores de los botones del tema ColorWay."
+
+#: includes/customizer.php:2968
+msgid "Paragraph Line Height"
+msgstr "Interlineado del párrafo"
+
+#: includes/customizer.php:528
+msgid "Allows you to set Line Height for Colorway Theme."
+msgstr "Te permite establecer el interlineado del tema ColorWay."
+
+#: includes/customizer.php:527
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: includes/customizer.php:804
+msgid "<b>Note:</b> Sticky header will work only in full width container layout.</br></br> After Configuring Sticky Option, you must publish the customizer once and configure the below settings"
+msgstr "<b>Nota:</b> La cabecera fija funcionará solo en el diseño de contenedor de ancho completo.</br></br> Después de configurar la opción fija, tienes que publicar el personalizador una vez y configurar los siguientes ajustes"
+
+#: includes/customizer.php:445
+msgid "Allows you to change Body Background Image for Colorway Theme. </br></br><b>Note:</b> Background image will be visible only in Boxed layout, Applying This will overright the Body Background Color property."
+msgstr "Te permite cambiar la imagen de fondo del cuerpo del tema ColorWay. </br></br><b>Nota:</b> La imagen de fondo solo será visible en el diseño en caja, aplicando esto se anulará la propiedad de color de fondo del cuerpo."
+
+#: includes/customizer.php:2830
+msgid "Set Sticky Logo Size"
+msgstr "Establecer el tamaño del logotipo fijo"
+
+#: includes/customizer.php:796
+msgid "Here you can upload a Sticky Header Logo for your Website. Specified size is 215px width x 55px height."
+msgstr "Aquí puedes subir un logo para la cabecera fija de tu web. El tamaño especificado es 215px de ancho x 55px de alto."
+
+#: includes/customizer.php:795
+msgid "Sticky Header Logo"
+msgstr "Logotipo de la cabecera fija"
+
+#: includes/customizer.php:2491
+msgid "See Colorway Sites Library"
+msgstr "Ver la biblioteca de sitios de ColorWay"
+
+#: includes/customizer.php:812
+msgid "Here you can enable or disable border bottom of heading."
+msgstr "Aquí puedes activar o desactivar la parte inferior del borde del encabezado."
+
+#: includes/customizer.php:811
+msgid "Switch On/Off Border Bottom"
+msgstr "Activar/desactivar el borde inferior"
+
+#: includes/customizer.php:3044
+msgid "Page Content Width"
+msgstr "Ancho del contenido de página"
+
+#: includes/customizer.php:3020
+msgid "Website Container Width"
+msgstr "Ancho del contenedor de la web"
+
+#: includes/customizer.php:2997
+msgid "Content Vertical Padding"
+msgstr "Relleno vertical del contenido"
+
+#: includes/customizer.php:803
+msgid "Enable Sticky Header"
+msgstr "Activar cabecera fija"
+
+#: includes/customizer.php:1814
+msgid "Display Author Meta"
+msgstr "Mostrar meta del autor"
+
+#: includes/customizer.php:1802
+msgid "Display Date Meta"
+msgstr "Mostrar meta de la fecha"
+
+#: search.php:38
+msgid "Read Now >>"
+msgstr "Leer ahora > >"
+
+#: includes/customizer.php:2097
+msgid "Set Header Color for Footer."
+msgstr "Establece el color de la cabecera del pie de página."
+
+#: includes/customizer.php:2096
+msgid "Footer Heading Color"
+msgstr "Color del encabezado del pie de página"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esa ubicación ¿quieres probar a buscar?"
+
+#: includes/customizer.php:166
+msgid "Logo"
+msgstr "Logotipo"
+
+#: includes/customizer.php:3023 includes/customizer.php:3047
+msgid "Measurement is in percent."
+msgstr "La medición está en porcentaje."
+
+#: includes/plugin-notification/features/feature-about-page.php:56
+#: includes/plugin-notification/features/feature-about-page.php:103
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: includes/plugin-notification/features/feature-about-page.php:58
+#: includes/plugin-notification/features/feature-about-page.php:105
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: includes/plugin-notification/features/feature-about-page.php:62
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "Te recomendamos mucho instalar el plugin complementario para tener acceso a las secciones de las secciones de artículos de la página de inicio, equipo y testimonios."
+
+#. translators: s - Orbit Fox Companion
+#: includes/plugin-notification/features/feature-about-page.php:97
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Si quieres sacar el máximo beneficio de las opciones que este tema tiene para ofrecer, instala y activa el plugin %s, por favor."
+
+#: includes/plugin-notification/features/feature-about-page.php:101
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: includes/plugin-notification/features/feature-about-page.php:102
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#. translators: %s - comma.
+#: templates/content/content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: templates/content/content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: templates/content/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: includes/plugin-notification/cw-notifications/cw-about-page/class-inkthemes-about-page.php:435
+#: includes/plugin-notification/cw-notifications/cw-customizer-notify/class-inkthemes-customizer-notify.php:170
+msgid "Activating"
+msgstr "Activando"
+
+#: includes/customizer.php:152
+msgid "Site Title, Tagline & icon"
+msgstr "Título del sitio, descripción corta e icono"
+
+#: includes/customizer.php:80
+msgid "Custom Menu Button Style"
+msgstr "Estilo de botón de menú personalizado"
+
+#: includes/customizer.php:2124
+msgid "Set Footer Background Image for Theme."
+msgstr "Establecer imagen de fondo de pie de página para el tema."
+
+#: includes/customizer.php:454
+msgid "Allows you to change Footer Background Image for Colorway Theme. This will overright the Footer Background Color property."
+msgstr "Te permite cambiar la imagen de fondo de pie de página para el tema de ColorWay. Esto sustituye la propiedad color de fondo del pie de página."
+
+#: includes/customizer.php:453 includes/customizer.php:2123
+msgid "Footer Background Image"
+msgstr "Imagen de fondo de pie de página"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:503
+msgid "How it works? Watch below Video!"
+msgstr "¿Cómo funciona? ¡Mira el siguiente vídeo!"
+
+#: includes/customizer.php:1783
+msgid "Allows you to set Font Size for Menu Text."
+msgstr "Te permite establecer el tamaño de fuente del texto del menú."
+
+#: includes/customizer.php:1782
+msgid "Menu Text Font Size"
+msgstr "Tamaño de fuente del texto del menú"
+
+#: includes/customizer.php:1593
+msgid "Allows you to set Navigation Menu Font Weight."
+msgstr "Te permite establecer el grosor de fuente del menú de navegación."
+
+#: includes/customizer.php:1592
+msgid "Menu Font Weight"
+msgstr "Grosor de fuente del menú"
+
+#: includes/customizer.php:1435
+msgid "Turn on or off the home page Feature section as per your requirement."
+msgstr "Activa o desactiva la sección de destacados de la página de inicio según tus necesidades."
+
+#: includes/customizer.php:1434
+msgid "Feature Section On/Off"
+msgstr "Activar/desactivar sección de artículos"
+
+#: includes/customizer.php:263 includes/customizer.php:264
+msgid "Feature Area Control"
+msgstr "Control del área destacada"
+
+#: includes/customizer.php:1673
+msgid "Allows you to set Paragraph Font Weight."
+msgstr "Te permite establecer el grosor de fuente del párrafo."
+
+#: includes/customizer.php:1653
+msgid "Allows you to set Heading 6 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 6."
+
+#: includes/customizer.php:1643
+msgid "Allows you to set Heading 5 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 5."
+
+#: includes/customizer.php:1633
+msgid "Allows you to set Heading 4 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 4."
+
+#: includes/customizer.php:1623
+msgid "Allows you to set Heading 3 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 3."
+
+#: includes/customizer.php:1613
+msgid "Allows you to set Heading 2 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 2."
+
+#: includes/customizer.php:1603
+msgid "Allows you to set Heading 1 Font Weight."
+msgstr "Te permite establecer el grosor de fuente del encabezado 1."
+
+#: includes/customizer.php:1473
+msgid "Allows you to set Font Family for Navigation Menu."
+msgstr "Te permite establecer la familia tipográfica del menú de navegación."
+
+#: includes/customizer.php:145
+msgid "Allows you to setup Bottom Footer Layout for Colorway Theme."
+msgstr "Te permite configurar el diseño del pie de página inferior del tema ColorWay."
+
+#: includes/customizer.php:126
+msgid "Allows you to setup Single Post Layout for Colorway Theme."
+msgstr "Te permite configurar el diseño de las entradas infividuales para el tema ColorWay."
+
+#: includes/customizer.php:117
+msgid "Allows you to setup Page Layout for Colorway Theme."
+msgstr "Te permite configurar el diseño de página del tema ColorWay."
+
+#: includes/customizer.php:108
+msgid "Allows you to setup Blog, Archives, Category and Tag Layouts for Colorway Theme."
+msgstr "Te permite configurar el diseño del blog, archivos, categorías y etiquetas del tema ColorWay."
+
+#: includes/customizer.php:99
+msgid "Allows you to setup Header Layout for Colorway Theme."
+msgstr "Te permite configurar el diseño de cabecera del tema ColorWay."
+
+#: includes/customizer.php:90
+msgid "Allows you to setup Container Layout for Colorway Theme."
+msgstr "Te permite configurar el diseño del contenedor del tema ColorWay."
+
+#: templates/content/content-single.php:15
+#: templates/content/content-loop.php:44
+msgid "On "
+msgstr "En "
+
+#: templates/content/content-single.php:12
+msgid "Posted in "
+msgstr "Publicado en"
+
+#: includes/customizer.php:780
+msgid "Here you can Enable the Logo for your Website."
+msgstr "Aquí puedes activar el logotipo de tu web."
+
+#: includes/customizer.php:779
+msgid "Enable Logo"
+msgstr "Activar logo"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:429
+msgid "Visit Forum »"
+msgstr "Visitar el foro »"
+
+#: includes/customizer.php:435
+msgid "Allows you to set Footer Color for Colorway Theme."
+msgstr "Te permite establecer el color del pie de página del tema ColorWay."
+
+#: includes/customizer.php:417
+msgid "Allows you to change Header color for Colorway Theme."
+msgstr "Te permite cambiar el color de la cabecera del tema ColorWay."
+
+#: includes/customizer.php:2943
+msgid "Header Vertical Padding"
+msgstr "Relleno vertical de la cabecera"
+
+#: includes/customizer.php:2920
+msgid "Set Vertical Padding"
+msgstr "Establecer el relleno vertical"
+
+#: includes/customizer.php:2898
+msgid "Set Horizontal Padding"
+msgstr "Establecer el relleno horizontal"
+
+#: includes/customizer.php:2853
+msgid "Set Button Radius"
+msgstr "Establecer el radio del botón"
+
+#: includes/customizer.php:2811 includes/customizer.php:2833
+msgid "Measurement is in percentage."
+msgstr "La medición está en porcentaje."
+
+#: includes/customizer.php:2808
+msgid "Set Logo Size"
+msgstr "Establecer tamaño del logotipo"
+
+#: includes/customizer.php:2785
+msgid "Site Tagline Font Size"
+msgstr "Tamaño de fuente de la descripción corta"
+
+#: includes/customizer.php:2766 includes/customizer.php:2788
+#: includes/customizer.php:2856 includes/customizer.php:2879
+#: includes/customizer.php:2901 includes/customizer.php:2923
+#: includes/customizer.php:2946 includes/customizer.php:2971
+#: includes/customizer.php:3000
+msgid "Measurement is in pixel."
+msgstr "La medición está en píxeles."
+
+#: includes/customizer.php:2763
+msgid "Site Title Font Size"
+msgstr "Tamaño de fuente del título del sitio"
+
+#: includes/customizer.php:2744
+msgid "Center Footer Layout"
+msgstr "Diseño de pie de página central"
+
+#: includes/customizer.php:2740
+msgid "Disable Footer Layout"
+msgstr "Deactiva el diseño del pie de página"
+
+#: includes/customizer.php:2736
+msgid "Footer Inline Layout"
+msgstr "Disposición en línea del pie de página"
+
+#: includes/customizer.php:2665
+msgid "Page Sidebar Layout"
+msgstr "Diseño de la barra lateral de la página"
+
+#: includes/customizer.php:2640 includes/customizer.php:2674
+#: includes/customizer.php:2706
+msgid "Right Layout"
+msgstr "Diseño derecho"
+
+#: includes/customizer.php:2636 includes/customizer.php:2670
+#: includes/customizer.php:2702
+msgid "Left Layout"
+msgstr "Diseño izquierdo"
+
+#: includes/customizer.php:2631
+msgid "Blog/Archives/Category Sidebar Layout"
+msgstr "Diseño de la barra lateral del blog/archivos/categoría"
+
+#: includes/customizer.php:2610 includes/customizer.php:2644
+#: includes/customizer.php:2678 includes/customizer.php:2710
+msgid "Center Layout"
+msgstr "Diseño centrado"
+
+#: includes/customizer.php:2606
+msgid "Menu Logo Layout"
+msgstr "Disposición logo menú"
+
+#: includes/customizer.php:2602
+msgid "Logo Menu Layout"
+msgstr "Disposción menú logo"
+
+#: includes/customizer.php:2576
+msgid "Fullwidth Container Layout"
+msgstr "Diseño de contenedor de ancho completo"
+
+#: includes/customizer.php:2572
+msgid "Boxed Container Layout"
+msgstr "Diseño de contenedor en caja"
+
+#: includes/customizer.php:2115
+msgid "Set Bottom Footer Background Color for Theme."
+msgstr "Establecer el color de fondo del pie de página inferior para el tema."
+
+#: includes/customizer.php:2114
+msgid "Bottom Footer Background Color"
+msgstr "Color de fondo del pie de página inferior"
+
+#: includes/customizer.php:2106
+msgid "Set Footer widgetized Background Color for Theme."
+msgstr "Establecer el color de fondo de la zona de widgets del pie de página para el tema."
+
+#: includes/customizer.php:2105
+msgid "Footer widgetized Background Color"
+msgstr "Color de fondo de la zona de widgets del tie de página"
+
+#: includes/customizer.php:2088
+msgid "Set Text Color for Footer."
+msgstr "Establecer el color de texto del pie de página."
+
+#: includes/customizer.php:2087
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: includes/customizer.php:2079
+msgid "Set Link Hover Color for Footer."
+msgstr "Establecer el color de los enlaces del pie de página al pasar el cursor."
+
+#: includes/customizer.php:2070
+msgid "Set Link Color for Footer."
+msgstr "Establecer el color de los enlaces del pie de página."
+
+#: includes/customizer.php:2061
+msgid "Set Heading 6 Text Color for Theme."
+msgstr "Establecer el color de texto del título 6 para el tema."
+
+#: includes/customizer.php:2060
+msgid "Heading 6 Text Color"
+msgstr "Color de texto del encabezado 6"
+
+#: includes/customizer.php:2052
+msgid "Set Heading 5 Text Color for Theme."
+msgstr "Establecer el color de texto del título 5 para el tema."
+
+#: includes/customizer.php:2051
+msgid "Heading 5 Text Color"
+msgstr "Color de texto del encabezado 5"
+
+#: includes/customizer.php:2043
+msgid "Set Heading 4 Text Color for Theme."
+msgstr "Establecer el color de texto del título 4 para el tema."
+
+#: includes/customizer.php:2042
+msgid "Heading 4 Text Color"
+msgstr "Color de texto del encabezado 4"
+
+#: includes/customizer.php:2034
+msgid "Set Heading 3 Text Color for Theme."
+msgstr "Establecer el color de texto del título 3 para el tema."
+
+#: includes/customizer.php:2033
+msgid "Heading 3 Text Color"
+msgstr "Color de texto del encabezado 3"
+
+#: includes/customizer.php:2025
+msgid "Set Heading 2 Text Color for Theme."
+msgstr "Establecer el color de texto del título 2 para el tema."
+
+#: includes/customizer.php:2024
+msgid "Heading 2 Text Color"
+msgstr "Color de texto del encabezado 2"
+
+#: includes/customizer.php:2016
+msgid "Set Heading 1 Text Color for Theme."
+msgstr "Establecer el color de texto del título 1 para el tema."
+
+#: includes/customizer.php:2015
+msgid "Heading 1 Text Color"
+msgstr "Color de texto del encabezado 1"
+
+#: includes/customizer.php:2007
+msgid "Set Text Color for Theme."
+msgstr "Establecer el color de texto del tema."
+
+#: includes/customizer.php:2006
+msgid "Paragraph Text Color"
+msgstr "Color de texto del párrafo"
+
+#: includes/customizer.php:1998
+msgid "Set Link Hover Color for Theme."
+msgstr "Establecer el color de los enlaces del tema al pasar el cursor."
+
+#: includes/customizer.php:1997 includes/customizer.php:2078
+msgid "Link Hover Color"
+msgstr "Color de enlace al pasar"
+
+#: includes/customizer.php:1989
+msgid "Set Link Color for Theme."
+msgstr "Establecer el color de los enlaces del tema."
+
+#: includes/customizer.php:1988 includes/customizer.php:2069
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: includes/customizer.php:1953
+msgid "Set Menu Hover background Color for Header."
+msgstr "Establecer el color de fondo del menú al pasar para la cabecera."
+
+#: includes/customizer.php:1952
+msgid "Menu Background Hover Color"
+msgstr "Color de fondo del menú al pasar el cursor"
+
+#: includes/customizer.php:1944
+msgid "Set Menu background Color for Header."
+msgstr "Establece el color de fondo del menú para la cabecera."
+
+#: includes/customizer.php:1943
+msgid "Menu Background Color"
+msgstr "Color de fondo del menú"
+
+#: includes/customizer.php:1935
+msgid "Set Menu Hover Link Color for Header."
+msgstr "Establece el color de los enlaces del menú al pasar por encima."
+
+#: includes/customizer.php:1934
+msgid "Menu Link Hover Color"
+msgstr "Color de los enlaces del menú al pasar el cursor"
+
+#: includes/customizer.php:1926
+msgid "Set Menu Link Color for Header."
+msgstr "Establece el color de los enlaces de menú para cabecera."
+
+#: includes/customizer.php:1925
+msgid "Menu Link Color"
+msgstr "Color de los enlaces del menú"
+
+#: includes/customizer.php:1917
+msgid "Set Site Tagline Color for Header."
+msgstr "Establece el color de la descripción corta para la cabecera."
+
+#: includes/customizer.php:1916
+msgid "Site Tagline Color"
+msgstr "Color de la descripción corta"
+
+#: includes/customizer.php:1908
+msgid "Set Site Title Color for Header."
+msgstr "Establece el color del título para cabecera."
+
+#: includes/customizer.php:1907
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: includes/customizer.php:1899
+msgid "Set Header Background Color for the Theme."
+msgstr "Establece el color de fondo de cabecera para el tema."
+
+#: includes/customizer.php:1898
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: includes/customizer.php:1874
+msgid "Display Categories"
+msgstr "Mostrar categorías"
+
+#: includes/customizer.php:1850
+msgid "Display Date"
+msgstr "Mostrar fecha"
+
+#: includes/customizer.php:1838 includes/customizer.php:1886
+msgid "Display Comments"
+msgstr "Mostrar comentarios"
+
+#: includes/customizer.php:1826
+msgid "Display Categories "
+msgstr "Mostrar categorías"
+
+#: includes/customizer.php:1862
+msgid "Display Author"
+msgstr "Mostrar autor"
+
+#: includes/customizer.php:1793
+msgid "Allows you to set Font Size for Menu Button."
+msgstr "Te permite establecer el tamaño de fuente de los botones del menú."
+
+#: includes/customizer.php:1792
+msgid "Menu Button Font Size"
+msgstr "Tamaño de fuente de botón de menú"
+
+#: includes/customizer.php:1763
+msgid "Allows you to set Bottom Footer Link Font Size."
+msgstr "Te permite establecer el tamaño de fuente de los enlaces del pie de página."
+
+#: includes/customizer.php:1762
+msgid "Bottom Footer Link Font Size"
+msgstr "Tamaño de fuente de enlaces des pie de página inferior"
+
+#: includes/customizer.php:1753
+msgid "Allows you to set Footer Paragraph Font Size."
+msgstr "Te permite establecer el tamaño de fuente del párrafo del pie de página."
+
+#: includes/customizer.php:1752
+msgid "Footer Paragraph Font Size"
+msgstr "Tamaño de fuente de párrafo de pie de página"
+
+#: includes/customizer.php:1743
+msgid "Allows you to set Font Size for Footer Title."
+msgstr "Te permite establecer el tamaño de fuente del título del pie de página."
+
+#: includes/customizer.php:1742
+msgid "Footer Title Font Size"
+msgstr "Tamaño de fuente del título del pie de página"
+
+#: includes/customizer.php:1733
+msgid "Allows you to set Font Size for Heading 5."
+msgstr "Te permite establecer el tamaño de fuente del encabezado 6."
+
+#: includes/customizer.php:1732
+msgid "Heading 5 Font Size"
+msgstr "Tamaño de fuente del encabezado 5"
+
+#: includes/customizer.php:1723
+msgid "Allows you to set Font Size for Heading 4."
+msgstr "Te permite establecer el tamaño de fuente del encabezado 5."
+
+#: includes/customizer.php:1722
+msgid "Heading 4 Font Size"
+msgstr "Tamaño de fuente del encabezado 4"
+
+#: includes/customizer.php:1713
+msgid "Allows you to set Font Size for Heading 3."
+msgstr "Te permite establecer el tamaño de fuente del encabezado 3."
+
+#: includes/customizer.php:1712
+msgid "Heading 3 Font Size"
+msgstr "Tamaño de fuente del encabezado 3"
+
+#: includes/customizer.php:1703
+msgid "Allows you to set Font Size for Heading 2."
+msgstr "Te permite establecer el tamaño de fuente del encabezado 2."
+
+#: includes/customizer.php:1702
+msgid "Heading 2 Font Size"
+msgstr "Tamaño de fuente del encabezado 2"
+
+#: includes/customizer.php:1693
+msgid "Allows you to set Font Size for Heading 1."
+msgstr "Te permite establecer el tamaño de fuente del encabezado 1."
+
+#: includes/customizer.php:1692
+msgid "Heading 1 Font Size"
+msgstr "Tamaño de fuente del encabezado 1"
+
+#: includes/customizer.php:1683
+msgid "Allows you to set Font Size for Paragraph"
+msgstr "Te permite establecer el tamaño de fuente del párrafo"
+
+#: includes/customizer.php:1682
+msgid "Paragraph Font Size"
+msgstr "Tamaño de fuente de párrafo"
+
+#: includes/customizer.php:1672
+msgid "Paragraph Font Weight"
+msgstr "Grosor de fuente del párrafo"
+
+#: includes/customizer.php:1652
+msgid "Heading 6 Font Weight"
+msgstr "Grosor de fuente del encabezado 6"
+
+#: includes/customizer.php:1642
+msgid "Heading 5 Font Weight"
+msgstr "Grosor de fuente del encabezado 5"
+
+#: includes/customizer.php:1632
+msgid "Heading 4 Font Weight"
+msgstr "Grosor de fuente del encabezado 4"
+
+#: includes/customizer.php:1622
+msgid "Heading 3 Font Weight"
+msgstr "Grosor de fuente del encabezado 3"
+
+#: includes/customizer.php:1612
+msgid "Heading 2 Font Weight"
+msgstr "Grosor de fuente del encabezado 2"
+
+#: includes/customizer.php:1602
+msgid "Heading 1 Font Weight"
+msgstr "Grosor de fuente del encabezado 1"
+
+#: includes/customizer.php:1583
+msgid "Allows you to set Site Tagline Font Weight."
+msgstr "Te permite establecer el grosor de fuente de la descripción corta del sitio."
+
+#: includes/customizer.php:1582
+msgid "Site Tagline Font Weight"
+msgstr "Grosor de fuente de la descripción corta"
+
+#: includes/customizer.php:1573
+msgid "Allows you to set Site Title Font Weight."
+msgstr "Te permite establecer el grosor de fuente del título del sitio."
+
+#: includes/customizer.php:1572
+msgid "Site Title Font Weight"
+msgstr "Grosor de fuente del título del sitio"
+
+#: includes/customizer.php:1553
+msgid "Allows you to set Font Family For Heading 6."
+msgstr "Te permite establecer la familia tipográfica del encabezado 6."
+
+#: includes/customizer.php:1552
+msgid "Heading 6 Font Family"
+msgstr "Familia tipográfica del encabezado 6"
+
+#: includes/customizer.php:1543
+msgid "Allows you to set Font Family For Heading 5."
+msgstr "Te permite establecer la familia tipográfica del encabezado 5."
+
+#: includes/customizer.php:1542
+msgid "Heading 5 Font Family"
+msgstr "Familia tipográfica del encabezado 5"
+
+#: includes/customizer.php:1533
+msgid "Allows you to set Font Family For Heading 4."
+msgstr "Te permite establecer la familia tipográfica del encabezado 4."
+
+#: includes/customizer.php:1532
+msgid "Heading 4 Font Family"
+msgstr "Familia tipográfica del encabezado 4"
+
+#: includes/customizer.php:1523
+msgid "Allows you to set Font Family For Heading 3."
+msgstr "Te permite establecer la familia tipográfica del encabezado 3."
+
+#: includes/customizer.php:1522
+msgid "Heading 3 Font Family"
+msgstr "Familia tipográfica de la fuente del encabezado 3"
+
+#: includes/customizer.php:1513
+msgid "Allows you to set Font Family For Heading 2."
+msgstr "Te permite establecer la familia tipográfica del encabezado 2."
+
+#: includes/customizer.php:1512
+msgid "Heading 2 Font Family"
+msgstr "Familia tipográfica de la fuente del encabezado 2"
+
+#: includes/customizer.php:1503
+msgid "Allows you to set Font Family For Heading 1."
+msgstr "Te permite establecer la familia tipográfica del encabezado 1."
+
+#: includes/customizer.php:1502
+msgid "Heading 1 Font Family"
+msgstr "Familia tipográfica del encabezado 1"
+
+#: includes/customizer.php:1493
+msgid "Allows you to set Font Family For Paragraph."
+msgstr "Te permite establecer la familia tipográfica del párrafo."
+
+#: includes/customizer.php:1492
+msgid "Paragraph Font Family"
+msgstr "Familia tipográfica del párrafo"
+
+#: includes/customizer.php:1483
+msgid "Allows you to set Font Family For Body."
+msgstr "Te permite establecer la familia tipográfica del cuerpo."
+
+#: includes/customizer.php:1482
+msgid "Body Font Family"
+msgstr "Familia tipográfica del cuerpo"
+
+#: includes/customizer.php:1472
+msgid "Navigation Menu Font Family"
+msgstr "Familia tipográfica de menú de navegación"
+
+#: includes/customizer.php:1463
+msgid "Allows you to set Font Family For Logo."
+msgstr "Te permite establecer la familia tipográfica del logotipo."
+
+#: includes/customizer.php:1462
+msgid "Logo Font Family"
+msgstr "Familia tipográfica del logotipo"
+
+#: includes/customizer.php:1448
+msgid "Select the number of Feature Areas to be displayed."
+msgstr "Selecciona el número de áreas de artículos que se mostrarán."
+
+#: includes/customizer.php:1447
+msgid "Feature Area Selector"
+msgstr "Selector de área de artículo"
+
+#: includes/customizer.php:1422
+msgid "On/Off the Footer Widget Area."
+msgstr "Activar/desactivar el área del widgets del pie de página."
+
+#: includes/customizer.php:1421
+msgid "Footer Widget Area On/Off"
+msgstr "Área de widgets de pie de página activada/desactivada"
+
+#: includes/customizer.php:1406
+msgid "Select the number of Widget Areas to be displayed."
+msgstr "Selecciona el número de áreas de widgets que se mostrarán."
+
+#: includes/customizer.php:1405
+msgid "Footer Widgetized Area Selector"
+msgstr "Selector del pie de página de widgets"
+
+#: includes/customizer.php:880 includes/customizer.php:881
+msgid "Menu Button Background Hover Color"
+msgstr "Color de fondo de botón del menú"
+
+#: includes/customizer.php:871 includes/customizer.php:872
+msgid "Menu Button Background Color"
+msgstr "Color de fondo de los botones del menú"
+
+#: includes/customizer.php:862 includes/customizer.php:863
+msgid "Menu Button Link Hover Color"
+msgstr "Color de enlace de botón del menú al pasar por encima"
+
+#: includes/customizer.php:853 includes/customizer.php:854
+msgid "Menu Button Link Color"
+msgstr "Color de enlace de botón del menú"
+
+#: includes/customizer.php:840 includes/customizer.php:841
+msgid "Custom Menu Html/Text On/Off"
+msgstr "Texto/Html de menú activado/desactivado"
+
+#: includes/customizer.php:832 includes/customizer.php:833
+msgid "Custom Menu Html/Text"
+msgstr "Html/texto personalizado del menú"
+
+#: includes/customizer.php:519
+msgid "Allows you to set Font size for Colorway Theme."
+msgstr "Te permite establecer el tamaño de fuente del tema ColorWay."
+
+#: includes/customizer.php:518
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: includes/customizer.php:510
+msgid "Allows you to set Font Weight for Colorway Theme."
+msgstr "Te permite establecer el grosor de fuente del tema ColorWay."
+
+#: includes/customizer.php:509
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: includes/customizer.php:501
+msgid "Allows you to set Font Family for Colorway Theme."
+msgstr "Te permite establecer la familia tipográfica del tema ColorWay."
+
+#: includes/customizer.php:500
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: includes/customizer.php:493
+msgid "Allows you to set Font Styling for Colorway Theme."
+msgstr "Te permite establecer el estilo de fuente del tema ColorWay."
+
+#: includes/customizer.php:492
+msgid "Typography"
+msgstr "Tipografía"
+
+#: includes/customizer.php:482
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: includes/customizer.php:463
+msgid "Allows you to change Body Background Color for Colorway Theme."
+msgstr "Te permite cambiar el color de fondo del cuerpo para el tema ColorWay."
+
+#: includes/customizer.php:462
+msgid "Body Background Color"
+msgstr "Color de fondo del cuerpo"
+
+#: includes/customizer.php:444
+msgid "Body Background Image"
+msgstr "Imagen de fondo del cuerpo"
+
+#: includes/customizer.php:434
+msgid "Footer Color"
+msgstr "Color del pie de página"
+
+#: includes/customizer.php:426
+msgid "Allows you to set Content Area Color for Colorway Theme."
+msgstr "Te permite establecer el color del área de contenido del tema ColorWay."
+
+#: includes/customizer.php:425
+msgid "Content Area Color"
+msgstr "Color del área de contenido"
+
+#: includes/customizer.php:416
+msgid "Header Color"
+msgstr "Color de cabecera"
+
+#: includes/customizer.php:409
+msgid "Allows you to set Background and Colors for Colorway Theme."
+msgstr "Te permite establecer el fondo y los colores del tema ColorWay."
+
+#: includes/customizer.php:408
+msgid "Colors and Backgrounds "
+msgstr "Colores y fondos "
+
+#: includes/customizer.php:399
+msgid "Social Icons"
+msgstr "Iconos Sociales"
+
+#: includes/customizer.php:143 includes/customizer.php:2731
+msgid "Bottom Footer Layout"
+msgstr "Diseño de pie de página inferior"
+
+#: includes/customizer.php:135
+msgid "<b>You Can Customize Your Widget Area By Following These Steps</b><br/><br/><ul><li>Go To Dashboard->Appearance->Widget.</li><br/><li> Place your desired Widgets under the Footer Widget Areas (First, Second, Third, etc.) they will appear on the footer of your site. </li><br/><li> If you want to hide the footer widget contents then, just place a Blank Text Widget under Footer Widget Areas. </li><br/><li> You can also refer this tutorial link: <a href='https://www.inkthemes.com/how-to-use-widgets-in-wordpress/' target='_blank'>How To Use Widgets In Wordpress</a></li><br/><br/> Allows you to turn on and off Footer Area Widgets for Colorway Theme."
+msgstr "<b>Puedes personalizar tu área de widgets siguiendo estos pasos</b><br/><br/><ul><li>Ve al Escritorio->Apariencia->Widgets.</li><br/><li>Coloca los widgets que quieras debajo de las áreas de widgets del pie de página (primero, segundo, tercero, etc.) y aparecerán en el pie de página de tu sitio.</li><br/><li>Si quieres ocultar los contenidos del widget del pie de página, coloca un widget de texto vacío debajo de las áreas del widget del pie de página.</li><br/><li>También puedes seguir el tutorial de este enlace: <a href='https://www.inkthemes.com/how-to-use-widgets-in-wordpress/' target='_blank'>Cómo usar los widgets en WordPress</a></li><br/><br/>Te permite activar y desactivar los widgets del área del pie de página para el tema ColorWay."
+
+#: includes/customizer.php:134
+msgid "Footer Widget Layout"
+msgstr "Diseño de widget del pie de página"
+
+#: includes/customizer.php:124 includes/customizer.php:2697
+msgid "Single Post Layout"
+msgstr "Disposición de entrada individual"
+
+#: includes/customizer.php:115
+msgid "Page Layout"
+msgstr "Disposición de página"
+
+#: includes/customizer.php:106
+msgid "Blog/ Archives/ Category Layout"
+msgstr "Diseño del Blog/ Archivos/ Categoría"
+
+#: includes/customizer.php:97 includes/customizer.php:2597
+msgid "Header Layout"
+msgstr "Disposición de la cabecera"
+
+#: includes/customizer.php:88 includes/customizer.php:2567
+msgid "Container Layout"
+msgstr "Diseño del contenedor"
+
+#: includes/customizer.php:72
+msgid "Custom Menu Text/Html"
+msgstr "Texto/Html personalizado del menú"
+
+#: includes/customizer.php:63
+msgid "Allows you to setup Layouts for Colorway Theme."
+msgstr "Te permite configurar los diseños del tema ColorWay."
+
+#: includes/customizer.php:62
+msgid "Layout Settings"
+msgstr "Ajustes de disposición"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:602
+msgid "Colorway theme offers a library of ready sites that can be imported for your website in just one click!"
+msgstr "¡El tema ColorWay ofrece una biblioteca de sitios preparados que se pueden importar en tu web con un solo clic!"
+
+#. translators: %1$1s: Addon Name, %2$2s: Minimum Required version of the
+#. Colorway Addon
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:584
+msgid "Update to the latest version of %1$2s to make changes in settings below."
+msgstr "Actualiza a la última versión de %1$2s para realizar cambios en los ajustes a continuación."
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:551
+msgid "Plugin Successfully Activated"
+msgstr "Plugin activado correctamente"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:528
+msgid "No plugin specified"
+msgstr "No se ha especificado ningún plugin"
+
+#. translators: %1$s: Colorway Theme name.
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:423
+msgid "Got a question? Visit %1$s Support forum. We're happy to help!"
+msgstr "¿Tienes alguna pregunta? Visita el foro de soporte de %1$s. ¡Estamos encantados de ayudarle!"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:416
+msgid "Five Star Support"
+msgstr "Soporte de cinco estrellas"
+
+#: includes/colorway-admin-settings/class-colorway-admin-settings.php:137
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: functions/inkthemes-functions.php:324
+msgid "Default Header Image"
+msgstr "Imagen predeterminada de cabecera"
+
+#: templates/content/content-single.php:9 templates/content/content-loop.php:38
+msgid "By"
+msgstr "Por"
+
+#: includes/customizer.php:1397
+msgid "Quickly add your Google+ URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu Google+ al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1396
+msgid "Google+ URL"
+msgstr "URL de Google+"
+
+#: includes/customizer.php:1388
+msgid "Quickly add your Youtube URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu Youtube al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1387
+msgid "Youtube URL"
+msgstr "URL de Youtube"
+
+#: includes/customizer.php:1379
+msgid "Quickly add your Tumblr URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu Tumblr al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1378
+msgid "Tumblr URL"
+msgstr "URL de Tumblr "
+
+#: includes/customizer.php:1370
+msgid "Quickly add your Pinterest URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu Pinterest al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1369
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: includes/customizer.php:1361
+msgid "Quickly add your Instagram URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu Instagram al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1360
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: includes/customizer.php:1352
+msgid "Quickly add your Flickr URL code to your theme by writing the code in this block."
+msgstr "Añade rápidamente la URL de tu FLickr al tema escribiéndolo en este bloque."
+
+#: includes/customizer.php:1351
+msgid "Flickr URL"
+msgstr "URL de Flickr "
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#: template-home.php:233
+msgid "Please go to Appearance-> Customize-> Testimonial Area Settings and add atleast one image in any Testimonial box to the \"Colorway Homepage\". You can enable dummy data option from the Appearance-> Customize-> General Settings to set up the theme like the demo website."
+msgstr "Por favor, ve a «Apariencia-> Personalizar-> Ajustes del área de recomendaciones» y añade al menos una imagen en cualquier casilla de recomendación a la «Página de inicio de Colorway». Puedes activar la opción de datos ficticios en «Apariencia-> Personalizar-> Ajustes generales» para configurar el tema como la web de demostración."
+
+#: template-home.php:104
+msgid "Please go to Appearance-> Customize-> Feature Area Settings and add atleast one image in any feature box to the \"Colorway Homepage\". You can enable dummy data option from the Appearance-> Customize-> General Settings to set up the theme like the demo website."
+msgstr "Por favor, ve a «Apariencia-> Personalizar-> Ajustes del área de características» y añade al menos una imagen en cualquier casilla de características a la «Página de inicio de Colorway». Puedes activar la opción de datos ficticios en «Apariencia-> Personalizar-> Ajustes generales» para configurar el tema como la web de demostración."
+
+#: template-home.php:131 templates/slit_slider.php:98
+msgid "Please go to Appearance-> Widgets and add atleast one widget to the Home Page Left Feature Widget Area to the \"Colorway Homepage\". You can enable dummy data option from the Appearance-> Customize-> General Settings to set up the theme like the demo website."
+msgstr "Por favor, ve a «Apariencia-> Widgets» y añade al menos un widget al área de widgets de la izquierda de la «Página de inicio de Colorway». Puedes activar la opción de datos ficticios en «Apariencia-> Personalizar-> Ajustes generales» para configurar el tema como la web de demostración."
+
+#: includes/customizer.php:890
+msgid "Enable or Disable Dummy Data for the theme"
+msgstr "Habilitar o deshabilitar los datos ficticios para el tema"
+
+#: includes/customizer.php:191
+msgid "Allows you to Enable or Disable Dummy Data for Colorway Theme."
+msgstr "Te permite activar o desactivar los datos ficticios para el tema ColorWay."
+
+#: includes/customizer.php:190 includes/customizer.php:889
+msgid "Dummy Data"
+msgstr "Datos de muestra"
+
+#: includes/customizer.php:945
+msgid "Enter the Link URL for Home Page First Slider"
+msgstr "Introduce la URL del primer carrusel de la página de inicio"
+
+#: includes/customizer.php:936
+msgid "Enter the Heading for Home page First slider"
+msgstr "Introduce el encabezado del primer carrusel de la página de inicio"
+
+#: includes/customizer.php:928
+msgid "Choose Image for your Home page First Slider. Optimal Size: 1171px x 525px"
+msgstr "Elige imagen para la primera diapositiva de la página de inicio. Tamaño óptimo: 1171px x 525px"
+
+#: includes/customizer.php:310
+msgid "Fourth Feature Area"
+msgstr "Cuarta área de artículos"
+
+#: includes/customizer.php:286
+msgid "Second Feature Area"
+msgstr "Segunda área de artículos"
+
+#. translators: %s - uploads path.
+#: functions.php:273
+msgid "The selected file could not be copied to %s."
+msgstr "El archivo seleccionado no ha podido copiarse a %s."
+
+#: functions.php:242
+msgid "Sorry, That file already exists in the WordPress media library."
+msgstr "Lo sentimos, ese archivo ya existe en la biblioteca de medios de WordPress."
+
+#: functions.php:231
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Lo siento, este tipo de archivo no está permitido por razones de seguridad."
+
+#: includes/customizer.php:1168
+msgid "Enter your text for home Page blog heading section"
+msgstr "Escribe tu texto para la sección de encabezado de blog de la página de inicio"
+
+#: includes/customizer.php:1150
+msgid "Enter link url for fourth feature area."
+msgstr "Introduce la URL de la cuarta área de artículos."
+
+#: includes/customizer.php:1141
+msgid "Enter text for fourth feature area description."
+msgstr "Introduce el texto de la descripción de la cuarta área de artículos."
+
+#: includes/customizer.php:1140
+msgid "Fourth Feature Description"
+msgstr "Descripción del cuarto artículo"
+
+#: includes/customizer.php:1132
+msgid "Enter text for fourth feature area heading."
+msgstr "Introduce el texto del encabezado de la cuarta área de artículos."
+
+#: includes/customizer.php:1114
+msgid "Enter link url for third feature area."
+msgstr "Introduce la URL de la tercera área de artículos."
+
+#: includes/customizer.php:1105
+msgid "Enter text for third feature area description."
+msgstr "Introduce el texto de la descripción de la tercera área de artículos."
+
+#: includes/customizer.php:1104
+msgid "Third Feature Description"
+msgstr "Descripción del tercer artículo"
+
+#: includes/customizer.php:1096
+msgid "Enter text for third feature area heading."
+msgstr "Introduce el texto del encabezado de la tercera área de artículos."
+
+#: includes/customizer.php:1078
+msgid "Enter link url for second feature area."
+msgstr "Introduce la URL de la segunda área de artículos."
+
+#: includes/customizer.php:1069
+msgid "Enter text for second feature area description."
+msgstr "Introduce el texto de la descripción de la segunda área de artículos."
+
+#: includes/customizer.php:1068
+msgid "Second Feature Description"
+msgstr "Descripción del segundo artículo"
+
+#: includes/customizer.php:1060
+msgid "Enter text for second feature area heading."
+msgstr "Introduce el texto del encabezado de la segunda área de artículos."
+
+#: includes/customizer.php:1042
+msgid "Enter link url for first feature area."
+msgstr "Introduce la URL de la primera área de artículos."
+
+#: includes/customizer.php:1033
+msgid "Enter text for first feature area description."
+msgstr "Introduce el texto de la descripción de la primera área de artículos."
+
+#: includes/customizer.php:1032
+msgid "First Feature Description"
+msgstr "Descripción del primer artículo"
+
+#: includes/customizer.php:1024
+msgid "Enter text for first feature area heading."
+msgstr "Introduce el texto del encabezado de la primera área de artículos."
+
+#: includes/customizer.php:997
+msgid "Home Page Main Heading"
+msgstr "Encabezado principal de la página de inicio"
+
+#: includes/customizer.php:989
+msgid "Enter the Description for Home Page Second Slider"
+msgstr "Introduce la descripción para la segunda dispositiva de la página de inicio"
+
+#: includes/customizer.php:988
+msgid "Seocnd Slide Description"
+msgstr "Descripción de la segunda diapositiva"
+
+#: includes/customizer.php:979
+msgid "Second Slide Link"
+msgstr "Enlace de la segunda diapositiva"
+
+#: includes/customizer.php:970
+msgid "Second Slider Heading"
+msgstr "Encabezado de la segunda diapositiva"
+
+#: includes/customizer.php:962
+msgid "Second Slider Image"
+msgstr "Imagen de la segunda diapositiva"
+
+#: includes/customizer.php:944
+msgid "First Slide Link"
+msgstr "Enlace de la primera diapositiva"
+
+#: includes/customizer.php:935
+msgid "First Slider Heading"
+msgstr "Encabezado de la primera diapositiva"
+
+#: includes/customizer.php:927
+msgid "First Slider Image"
+msgstr "Imagen de la primera diapositiva"
+
+#: includes/customizer.php:788
+msgid "Upload a logo for your Website. The recommended size for the logo is 215px width x 55px height."
+msgstr "Sube un logotipo para tu web. El tamaño recomendado para el logotipo es de 215px de ancho x 55px de altura."
+
+#: includes/customizer.php:483
+msgid "Allows you to change Header image for Colorway Theme."
+msgstr "Te permite cambiar la imagen de cabecera de ColorWay."
+
+#: includes/customizer.php:400
+msgid "Allows you to setup footer social icon for Colorway Theme."
+msgstr "Te permite configurar los iconos sociales del pie de página del tema ColorWay."
+
+#: includes/customizer.php:390
+msgid "Allows you to setup third testimonial section for Colorway Theme."
+msgstr "Te permite configurar la tercera sección de testimonios del tema ColorWay."
+
+#: includes/customizer.php:389
+msgid "Third Testimonial"
+msgstr "Tercera recomendación"
+
+#: includes/customizer.php:380
+msgid "Allows you to setup second testimonial section for Colorway Theme."
+msgstr "Te permite configurar la segunda sección de testimonios del tema ColorWay."
+
+#: includes/customizer.php:379
+msgid "Second Testimonial"
+msgstr "Segunda recomendación"
+
+#: includes/customizer.php:370
+msgid "Allows you to setup first testimonial section for Colorway Theme."
+msgstr "Te permite configurar la primera sección de testimonios del tema ColorWay."
+
+#: includes/customizer.php:369
+msgid "First Testimonial"
+msgstr "Primer testimonio"
+
+#: includes/customizer.php:360
+msgid "Allows you to control testimonial section for Colorway Theme."
+msgstr "Te permite controlar la sección de testimonios del tema ColorWay."
+
+#: includes/customizer.php:359
+msgid "Testimonial Control"
+msgstr "Control de testimonios"
+
+#: includes/customizer.php:348
+msgid "Allows you to setup home page blog area for Colorway Theme."
+msgstr "Te permite configurar el área de blog de la página de inicio del tema ColorWay."
+
+#: includes/customizer.php:347
+msgid "Home Page Blog Area"
+msgstr "Área del blog de la página de inicio"
+
+#: includes/customizer.php:336
+msgid "Allows you to setup home page left widget heading for Colorway Theme."
+msgstr "Te permite configurar el widget de la página de inicio izquierda para el tema ColorWay."
+
+#: includes/customizer.php:335
+msgid "Home Page Left Widget Heading"
+msgstr "Encabezado del widget izquierdo de la página de inicio"
+
+#: includes/customizer.php:325
+msgid "Allows you to setup home page middle area control for Colorway Theme."
+msgstr "Te permite configurar el control del área central de la página de inicio del tema ColorWay."
+
+#: includes/customizer.php:324
+msgid "Middle Area Control"
+msgstr "Control de la zona media"
+
+#: includes/customizer.php:311
+msgid "Allows you to setup fourth feature area section for Colorway Theme."
+msgstr "Te permite configurar la cuarta sección de artículos del tema ColorWay."
+
+#: includes/customizer.php:299
+msgid "Allows you to setup third feature area section for Colorway Theme."
+msgstr "Te permite configurar la tercera sección de artículos del tema ColorWay."
+
+#: includes/customizer.php:298
+msgid "Third Feature Area"
+msgstr "Tercer área de artículos"
+
+#: includes/customizer.php:287
+msgid "Allows you to setup second feature area section for Colorway Theme."
+msgstr "Te permite configurar la segunda sección de artículos del tema ColorWay."
+
+#: includes/customizer.php:275
+msgid "Allows you to setup first feature area section for Colorway Theme."
+msgstr "Te permite configurar la primera sección de artículos del tema ColorWay."
+
+#: includes/customizer.php:274
+msgid "First Feature Area"
+msgstr "Primer área de artículos"
+
+#: includes/customizer.php:240
+msgid "Allows you to setup main heading for Colorway Theme."
+msgstr "Te permite configurar el encabezado principal del tema ColorWay."
+
+#: includes/customizer.php:239
+msgid "Main Heading Setting"
+msgstr "Ajuste del encabezado principal"
+
+#: includes/customizer.php:228
+msgid "Allows you to setup second slider for Colorway Theme."
+msgstr "Te permite configurar el segundo carrusel del tema ColorWay."
+
+#: includes/customizer.php:227
+msgid "Second Slider"
+msgstr "Segundo carrusel"
+
+#: includes/customizer.php:216
+msgid "Allows you to setup first slider for Colorway Theme."
+msgstr "Te permite configurar el primer carrusel del tema ColorWay."
+
+#: includes/customizer.php:215
+msgid "First Slider"
+msgstr "Primer carrusel"
+
+#: includes/customizer.php:953
+msgid "First Slide Description"
+msgstr "Descripción de la primera diapositiva"
+
+#: includes/customizer.php:203
+msgid "Slider Control"
+msgstr "Control deslizante"
+
+#: includes/customizer.php:167
+msgid "Allows you to customize header logo, favicon settings for Colorway Theme."
+msgstr "Te permite personalizar los ajustes del logotipo de la cabecera y el favicon del tema ColorWay."
+
+#: includes/customizer.php:54
+msgid "Allows you to setup home page feature area section for Colorway Theme."
+msgstr "Te permite configurar la sección del área de funciones de la página de inicio para el tema ColorWay."
+
+#: template-home.php:118
+msgid "Widgetized Area"
+msgstr "Área de widgets"
+
+#: includes/customizer.php:1186
+msgid "Turn on or off the home page testimonial section as per your requirement."
+msgstr "Activa o desactiva la sección de testimonios de la página de inicio según tus necesidades."
+
+#: includes/customizer.php:1185
+msgid "Testimonial Section On/Off"
+msgstr "Activar/desactivar sección de testimonios"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: functions/plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se había seleccionado ningún plugin que activar. No se ha realizado ninguna acción."
+
+#: functions/plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#: functions/plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: functions/plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se había seleccionado ningún plugin que actualizar. No se ha realizado ninguna acción."
+
+#: functions/plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se había seleccionado ningún plugin que instalar. No se ha realizado ninguna acción."
+
+#: functions/plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: functions/plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: functions/plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: functions/plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: functions/plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: functions/plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: functions/plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: functions/plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#: functions/plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: functions/plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Debe actualizarse"
+
+#: functions/plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: functions/plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: functions/plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: functions/plugin-activation.php:1121 functions/plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: functions/plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: functions/plugin-activation.php:934 functions/plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: functions/plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: functions/plugin-activation.php:523
+msgid "Update Required"
+msgstr "Debe actualizarse"
+
+#: functions/plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#. translators: %s - plugin name.
+#: functions/inkthemes-plugin-notify.php:102
+#: functions/plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name.
+#: functions/inkthemes-plugin-notify.php:100
+#: functions/plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name.
+#: functions/inkthemes-plugin-notify.php:99 functions/plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: functions/inkthemes-plugin-notify.php:90 functions/plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#. translators: %s - plugin name.
+#: functions/inkthemes-plugin-notify.php:84
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para activar el plugin %1$s."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para activar los plugins %1$s."
+
+#. translators: %s - plugin name.
+#: functions/inkthemes-plugin-notify.php:78
+msgid "This theme recommends the following plugin to add lead form on landing page is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Este tema recomienda que el siguiente complemento para agregar el formulario de cliente potencial en la página de aterrizaje está inactivo actualmente:%1$s."
+msgstr[1] "El siguiente plugin requerido se encuentra inactivo: %1$s."
+
+#. translators: %s - plugin name.
+#: functions/inkthemes-plugin-notify.php:75
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para actualizar el plugin %1$s."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para actualizar los plugins %1$s."
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name(s).
+#: functions/inkthemes-plugin-notify.php:72 functions/plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: %s - plugin name.
+#: functions/inkthemes-plugin-notify.php:66
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para instalar el plugin %1$s."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para instalar los plugins %1$s."
+
+#: functions/inkthemes-functions.php:348
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas anteriores"
+
+#: functions/inkthemes-functions.php:345
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas siguientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions/inkthemes-functions.php:343
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: functions/inkthemes-functions.php:299
+msgid "The fourth footer widget area"
+msgstr "La cuarta área de widgets del pie de página"
+
+#: functions/inkthemes-functions.php:297
+msgid "Fourth Footer Widget Area"
+msgstr "Cuarta área de widgets del pie"
+
+#: functions/inkthemes-functions.php:287
+msgid "The third footer widget area"
+msgstr "La tercera área de widgets del pie de página"
+
+#: functions/inkthemes-functions.php:285
+msgid "Third Footer Widget Area"
+msgstr "Tercer área de widgets del pie"
+
+#: functions/inkthemes-functions.php:275
+msgid "The second footer widget area"
+msgstr "La segunda área de widgets del pie de página"
+
+#: functions/inkthemes-functions.php:273
+msgid "Second Footer Widget Area"
+msgstr "Segunda área de widgets del pie"
+
+#: functions/inkthemes-functions.php:263
+msgid "The first footer widget area"
+msgstr "La primera área de widgets del pie de página"
+
+#: functions/inkthemes-functions.php:261
+msgid "First Footer Widget Area"
+msgstr "Primer área de widgets del pie"
+
+#: functions/inkthemes-functions.php:251
+msgid "The secondary widget area"
+msgstr "El área de widgets secundaria"
+
+#: functions/inkthemes-functions.php:249
+msgid "Secondary Widget Area"
+msgstr "Área de widgets secundaria"
+
+#: functions/inkthemes-functions.php:239
+msgid "The primary widget area"
+msgstr "El área de widgets principal"
+
+#: functions/inkthemes-functions.php:237
+msgid "Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: functions/inkthemes-functions.php:126
+msgid "Home"
+msgstr "Inicio"
+
+#: includes/customizer.php:1159
+msgid "Enter your text for homepage Widget heading."
+msgstr "Introduce el texto para la cabecera de widgets de la página de inicio."
+
+#: includes/customizer.php:1158
+msgid "Home Page Widget Heading"
+msgstr "Encabezado de widgets de la página de inicio"
+
+#: templates/slit_slider.php:87
+msgid "Next"
+msgstr "Siguiente"
+
+#: template-home.php:190
+msgid "Read the reviews of some of our  Customers."
+msgstr "Lee las reseñas de algunos de nuestros clientes."
+
+#: template-home.php:202
+msgid "Robin Chang"
+msgstr "Robin Chang"
+
+#: templates/slit_slider.php:86
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-home.php:189
+msgid "Our Customer Love Us"
+msgstr "Nuestros clientes nos aprecian"
+
+#: template-home.php:198 template-home.php:209 template-home.php:220
+msgid "Create and Manage multiple contact forms using single dashboard. You can show Form on any single/every page of your website. You can also collect payments, leads and much more..."
+msgstr "Crea y administra múltiples formularios de contacto utilizando un único panel de control. Puedes mostrar el formulario en cualquier página de tu web. También puedes cobrar pagos, clientes potenciales y mucho más...."
+
+#: template-home.php:213
+msgid "Rown Wisely"
+msgstr "Rown Wisely"
+
+#: template-home.php:224
+msgid "Jex Polack"
+msgstr "Jex Polack"
+
+#: templates/slit_slider.php:14 templates/slit_slider.php:20
+msgid "Premium WordPress Themes with Single Click Installation, Just a Click and your website is ready for use."
+msgstr "Temas Premium de WordPress con instalación en un solo clic, sólo un clic y tu sitio web está listo para su uso."
+
+#: templates/slit_slider.php:12 templates/slit_slider.php:18
+msgid "Your Site is faster to build."
+msgstr "Tu sitio es más rápido de construir."
+
+#: includes/customizer.php:1199
+msgid "Here mention the text testimonial Section Main Description"
+msgstr "Escribe aquí el texto de la descripción principal de la sección testimonios"
+
+#: includes/customizer.php:1253
+msgid "Here mention the Second testimonial Image of client"
+msgstr "Menciona aquí la imagen del cliente del segundo testimonio"
+
+#: includes/customizer.php:963
+msgid "Choose Image for your Home page Second Slider. Optimal Size: 1171px x 525px"
+msgstr "Elige imagen para la segunda diapositiva de la página de inicio. Tamaño óptimo: 1171px x 525px"
+
+#: includes/customizer.php:971
+msgid "Enter the Heading for Home page Second slider"
+msgstr "Introduce el encabezado del segundo carrusel de la página de inicio"
+
+#: includes/customizer.php:980
+msgid "Enter the Link URL for Home Page Second Slider"
+msgstr "Introduce la URL del segundo carrusel de la página de inicio"
+
+#: includes/customizer.php:954
+msgid "Enter the Description for Home Page First Slides Show"
+msgstr "Introduce la descripción para la primera dispositiva de la página de inicio"
+
+#: includes/customizer.php:1198
+msgid "Testimonial Main Heading"
+msgstr "Encabezado principal de las recomendaciones"
+
+#: includes/customizer.php:1207
+msgid "Testimonial Main Description"
+msgstr "Descripción principal de las recomendaciones"
+
+#: includes/customizer.php:1208
+msgid "Here mention the text testimonial Section Description"
+msgstr "Menciona aquí el texto de la descripción del segundo testimonio"
+
+#: includes/customizer.php:1216
+msgid "First Testimonial Description"
+msgstr "Descripción de la primera recomendación"
+
+#: includes/customizer.php:1217
+msgid "Here mention the first testimonial description of client"
+msgstr "Menciona aquí el texto de la descripción del primer testimonio"
+
+#: includes/customizer.php:1225
+msgid "First Testimonial Image"
+msgstr "Imagen de la primera recomendación"
+
+#: includes/customizer.php:1226
+msgid "Here mention the first testimonial Image of client"
+msgstr "Menciona aquí la imagen del cliente del primer testimonio"
+
+#: includes/customizer.php:1234
+msgid "First Testimonial Name"
+msgstr "Nombre de la primera recomendación"
+
+#: includes/customizer.php:1235 includes/customizer.php:1262
+#: includes/customizer.php:1289
+msgid "Here mention the name of  testimonial name of client"
+msgstr "Menciona aquí nombre de cliente del testimonio"
+
+#: includes/customizer.php:1243
+msgid "Second Testimonial Description"
+msgstr "Descripción de la segunda recomendación"
+
+#: includes/customizer.php:1244
+msgid "Here mention the Second testimonial description of client"
+msgstr "Menciona aquí el texto de la descripción del segundo testimonio"
+
+#: includes/customizer.php:1252
+msgid "Second Testimonial Image"
+msgstr "Imagen de la segunda recomendación"
+
+#: includes/customizer.php:1261
+msgid "Second Testimonial Name"
+msgstr "Nombre de la segunda recomendación"
+
+#: includes/customizer.php:1270
+msgid "Third Testimonial Description"
+msgstr "Tercera descripción de recomendación"
+
+#: includes/customizer.php:1279
+msgid "Third Testimonial Image"
+msgstr "Tercera imagen de recomendación"
+
+#: includes/customizer.php:1271
+msgid "Here mention the Third testimonial description of client"
+msgstr "Menciona aquí la descripción del cliente del tercer testimonio"
+
+#: includes/customizer.php:1280
+msgid "Here mention the Third testimonial Image of client"
+msgstr "Menciona aquí la imagen del cliente del tercer testimonio"
+
+#: includes/customizer.php:1288
+msgid "Third Testimonial Name"
+msgstr "Tercer nombre de recomendación"
+
+#: template-home.php:142
+msgid "Latest From The Blog"
+msgstr "Lo último del blog"
+
+#. Template Name of the theme
+msgid "Fullwidth Template"
+msgstr "Plantilla de ancho completo"
+
+#. Template Name of the theme
+msgid "Contact"
+msgstr "Contacto"
+
+#. Template Name of the theme
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: search.php:63
+msgid "Newer posts &rarr;"
+msgstr "Entradas más recientes &rarr;"
+
+#: search.php:62
+msgid "&larr; Older posts"
+msgstr "&larr; Entradas anteriores"
+
+#: single.php:56
+msgid "Next Post "
+msgstr "Siguiente entrada"
+
+#: single.php:54
+msgid "Previous Post "
+msgstr "Entrada anterior:"
+
+#: searchform.php:6 searchform.php:7 searchform.php:8
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:51
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: templates/content/content-none.php:9 search.php:48
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s - plugin name.
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: template-home.php:95
+msgid "This Colorway WordPress Theme gives you the easiness of building your site without any coding skills required."
+msgstr "Este tema ColorWay para WordPress te da la facilidad de crear tu sitio sin necesidad de tener conocimientos de programación."
+
+#: template-home.php:94
+msgid "Power of Easiness"
+msgstr "Potencia de la facilidad"
+
+#: template-home.php:28
+msgid "Design is not just what it looks like and feels like. Design is how it works."
+msgstr "El diseño no es sólo lo que parece y se siente. El diseño es como funciona."
+
+#: includes/customizer.php:1342
+msgid "Digg URL"
+msgstr "URL de Digg"
+
+#: includes/customizer.php:1334 includes/customizer.php:1343
+msgid "Enter your Stumble Upon URL if you have one"
+msgstr "Introduce la URL de tu StumbleUpon si tienes"
+
+#: includes/customizer.php:1333
+msgid "Stumble Upon URL"
+msgstr "URL de StumbleUpon"
+
+#: includes/customizer.php:1325
+msgid "Enter your Linkedin URL if you have one"
+msgstr "Introduce tu URL de Linkedin si tienes una"
+
+#: includes/customizer.php:1324
+msgid "Linked In URL"
+msgstr "URL de LinkedIn"
+
+#: includes/customizer.php:1316
+msgid "Enter your RSS Feed URL if you have one"
+msgstr "Introduce la URL de tu feed RSS si tienes"
+
+#: includes/customizer.php:1315
+msgid "RSS Feed URL"
+msgstr "URL del feed RSS"
+
+#: includes/customizer.php:1307
+msgid "Enter your Twitter URL if you have one"
+msgstr "Introduce tu URL de Twitter si tienes una"
+
+#: includes/customizer.php:1306
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: includes/customizer.php:1298
+msgid "Enter your Facebook URL if you have one"
+msgstr "Introduce tu URL de Facebook si tienes una"
+
+#: includes/customizer.php:1297
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: includes/customizer.php:1177
+msgid "Enter Number of Post you want to show on Home page."
+msgstr "Introduce el número de entradas que quieres mostrar en la página de inicio."
+
+#: includes/customizer.php:1176
+msgid "Home Page Blog Posts"
+msgstr "Entradas del blog de la página de inicio"
+
+#: includes/customizer.php:1167
+msgid "Home Page Blog Heading"
+msgstr "Encabezado del blog de la página de inicio"
+
+#: includes/customizer.php:1149
+msgid "Fourth feature Link"
+msgstr "Enlace del cuarto artículo"
+
+#: includes/customizer.php:1131
+msgid "Fourth Feature Heading"
+msgstr "Encabezado del cuarto artículo"
+
+#: includes/customizer.php:1123
+msgid "Choose image for your feature column fourth. Optimal size 198px x 115px"
+msgstr "Elige la imagen para tu cuarta columna de características. Tamaño óptimo 198px x 115px"
+
+#: includes/customizer.php:1122
+msgid "Fourth Feature Image"
+msgstr "Imagen del cuarto artículo"
+
+#: includes/customizer.php:1113
+msgid "Third feature Link"
+msgstr "Tercer enlace destacado"
+
+#: includes/customizer.php:1095
+msgid "Third Feature Heading"
+msgstr "Encabezado del tercer artículo"
+
+#: includes/customizer.php:1087
+msgid "Choose image for your feature column third. Optimal size 198px x 115px"
+msgstr "Elige la imagen para tu tercera columna de características. Tamaño óptimo 198px x 115px"
+
+#: includes/customizer.php:1086
+msgid "Third Feature Image"
+msgstr "Imagen del tercer artículo"
+
+#: includes/customizer.php:1077
+msgid "Second feature Link"
+msgstr "Enlace del segundo artículo"
+
+#: includes/customizer.php:1059
+msgid "Second Feature Heading"
+msgstr "Encabezado del segundo artículo"
+
+#: includes/customizer.php:1051
+msgid "Choose image for your feature column second. Optimal size 198px x 115px"
+msgstr "Elige la imagen para tu segunda columna de características. Tamaño óptimo 198px x 115px"
+
+#: includes/customizer.php:1050
+msgid "Second Feature Image"
+msgstr "Imagen del segundo artículo"
+
+#: includes/customizer.php:1041
+msgid "First feature Link"
+msgstr "Enlace del primer artículo"
+
+#: includes/customizer.php:1023
+msgid "First Feature Heading"
+msgstr "Encabezado del primer artículo"
+
+#: includes/customizer.php:1015
+msgid "Choose image for your feature column first. Optimal size 198px x 115px"
+msgstr "Elige la imagen para tu primera columna de características. Tamaño óptimo 198px x 115px"
+
+#: includes/customizer.php:1014
+msgid "First Feature Image"
+msgstr "Imagen del primer artículo"
+
+#: includes/customizer.php:998
+msgid "Enter your heading text for home page"
+msgstr "Introduzce el texto de encabezado para la página de inicio"
+
+#: includes/customizer.php:204 includes/customizer.php:916
+msgid "Turn on or off the home page Slider as per your requirement."
+msgstr "Activa o desactiva el carrusel de la página de inicio según tus necesidades."
+
+#: includes/customizer.php:915
+msgid "Home Page Slider On/Off"
+msgstr "Activar/desactivar carrusel de la página de inicio"
+
+#: includes/customizer.php:903
+msgid "Turn on or off the home page blog post as per your requirement."
+msgstr "Activar o desactivar la entrada del blog de la página de inicio según tus necesidades."
+
+#: includes/customizer.php:902
+msgid "Home Page Blog post On/Off"
+msgstr "Entrada de blog de la página de inicio activada/desactivada"
+
+#: includes/customizer.php:179 includes/customizer.php:824
+msgid "Paste your Google Analytics (or other) tracking code here."
+msgstr "Pega tu código de seguimiento de Google Analytics (u otro) aquí."
+
+#: includes/customizer.php:178 includes/customizer.php:823
+msgid "Tracking Code"
+msgstr "Código de rastreo"
+
+#: includes/customizer.php:787
+msgid "Custom Logo"
+msgstr "Logo personalizado"
+
+#: includes/customizer.php:53
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: functions/plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#. translators: 1: plugin name.
+#: functions/plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: functions/plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: functions/plugin-activation.php:3509 functions/plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: functions/plugin-activation.php:3509 functions/plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: functions/plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: functions/plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#: functions/plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: functions/plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: functions/plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: functions/plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: functions/plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/plugin-notification/features/feature-about-page.php:57
+#: includes/plugin-notification/features/feature-about-page.php:104
+#: functions/plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: functions/plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: functions/plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: functions/plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: functions/plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: functions/plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#: functions/plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: functions/plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: functions/plugin-activation.php:386 functions/plugin-activation.php:827
+#: functions/plugin-activation.php:2533 functions/plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: functions/plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: %s - plugin name.
+#. translators: 1: dashboard link.
+#: functions/inkthemes-plugin-notify.php:101
+#: functions/plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugin instalados y activados correctamente. %1$s"
+
+#: functions/inkthemes-plugin-notify.php:98 functions/plugin-activation.php:388
+#: functions/plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El plugin siguiente se ha activado correctamente:"
+msgstr[1] ""
+
+#: functions/inkthemes-plugin-notify.php:96 functions/plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: functions/inkthemes-plugin-notify.php:93 functions/plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#. translators: 1: plugin name(s).
+#: functions/plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:97 functions/plugin-activation.php:387
+#: functions/plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: functions/inkthemes-plugin-notify.php:87 functions/plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name(s).
+#: functions/inkthemes-plugin-notify.php:69 functions/plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Este plugin debe actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+msgstr[1] "Estos plugins deben actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name(s).
+#: functions/inkthemes-plugin-notify.php:81 functions/plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: %s - plugin name.
+#. translators: 1: plugin name(s).
+#: functions/inkthemes-plugin-notify.php:60
+#: functions/inkthemes-plugin-notify.php:63 functions/plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: %s - plugin name, %s - location.
+#: functions/inkthemes-plugin-notify.php:59 functions/plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha salido mal con la API de plugins."
+
+#. translators: %s - plugin name, %s - location.
+#. translators: %s: plugin name.
+#: functions/inkthemes-plugin-notify.php:58 functions/plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: functions/inkthemes-plugin-notify.php:57 functions/plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: functions/plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: functions/inkthemes-functions.php:311
+msgid "The Home Page Left Feature widget area"
+msgstr "El área de widgets de características izquierda de la página de inicio"
+
+#: functions/inkthemes-functions.php:309
+msgid "Home Page Left Feature Widget Area"
+msgstr "Área de widgets de características izquierda de la página de inicio"
+
+#: footer.php:169
+msgid "Colorway WordPress Theme by InkThemes.com"
+msgstr "Tema de WordPress ColorWay por InkThemes.com"
+
+#: contact.php:104
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+#: contact.php:92
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: contact.php:85
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: contact.php:78
+msgid "Name:"
+msgstr "Nombre:"
+
+#: contact.php:71
+msgid "Sorry, an error occured."
+msgstr "Lo sentimos, ha ocurrido un error."
+
+#: contact.php:66
+msgid "Thanks, your email was sent successfully."
+msgstr "Gracias, tu mensaje se ha enviado correctamente."
+
+#: contact.php:30
+msgid "Please enter a message."
+msgstr "Por favor, introduce un mensaje."
+
+#: contact.php:24
+msgid "You entered an invalid email address."
+msgstr "Has introducido una dirección de correo electrónico no válida."
+
+#: contact.php:21
+msgid "Please enter your email address."
+msgstr "Por favor, introduce tu correo electrónico."
+
+#: contact.php:15
+msgid "Please enter your name."
+msgstr "Por favor, introduce tu nombre."
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:14
+msgid " so far."
+msgstr "hasta ahora."
+
+#: comments.php:14
+msgid "% Responses"
+msgstr "% respuestas"
+
+#: comments.php:14
+msgid "One Response"
+msgstr "Una respuesta"
+
+#: comments.php:14
+msgid "No Responses"
+msgstr "No hay respuestas"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida. Escribe la contraseña para ver los comentarios."
+
+#: templates/content/content-single.php:18
+#: templates/content/content-loop.php:47 search.php:34
+msgid "% Comments."
+msgstr "% Comentarios."
+
+#: templates/content/content-single.php:18
+#: templates/content/content-loop.php:47 search.php:34
+msgid "1 Comment."
+msgstr "1 comentario."
+
+#: templates/content/content-single.php:18
+#: templates/content/content-loop.php:47 search.php:34
+msgid "No Comments."
+msgstr "Sin Comentarios."
+
+#: templates/content/content-single.php:25
+#: templates/content/content-loop.php:53
+msgid "Post Tagged with "
+msgstr "Publicar Etiquetados con"
+
+#. translators: %s - Time, %s - plugin name, %s - Author, %s - Category
+#: search.php:30
+msgctxt "Time, Author, Category"
+msgid "Posted on %1$s by %2$s in %3$s."
+msgstr "Publicado el %1$s por %2$s en %3$s."
+
+#: template-home.php:166 search.php:27
+msgid "Permanent Link to "
+msgstr "Enlace permanente a"
+
+#. Author URI of the theme
+msgid "https://www.inkthemes.com"
+msgstr "https://www.inkthemes.com"
+
+#. Author of the theme
+msgid "InkThemes.com"
+msgstr "InkThemes.com"
+
+#. Theme URI of the theme
+msgid "https://www.inkthemes.com/market/colorway-wp-theme/"
+msgstr "https://www.inkthemes.com/market/colorway-wp-theme/"

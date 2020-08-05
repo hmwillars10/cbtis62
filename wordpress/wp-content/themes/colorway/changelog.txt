@@ -1,0 +1,285 @@
+Theme Name: Colorway
+
+========================
+
+* Version 4.2.3
+***************************************
+1. Made the colorway theme mobile reponsive for smaller screen.
+
+* Version 4.2.2
+***************************************
+1. Renamed the function.
+
+* Version 4.2.1
+***************************************
+1. Change the get_options name.
+2. Fix the errors.
+
+* Version 4.2.0
+***************************************
+1. Added the functionality to install/activate both colorway sites and elementor plugin on button click.
+2. Fixed the colorway notice.
+* Version 4.1.9
+***************************************
+1. Fixed Admin notice dismissible issue.
+2. Fixed Width Overflow issue with classic editor.
+
+* Version 4.1.8
+***************************************
+1. Fixed Some Styling Issues.
+2. Removed Colorway options page and Unwanted notices.
+
+* Version 4.1.7
+***************************************
+1. Optimized the code to reduce file requests.
+2. Minified JS and CSS to get better speed results.
+
+* Version 4.1.6
+***************************************
+1. Optimized the code to reduce file requests.
+
+* Version 4.1.5
+***************************************
+1. Optimized the code to reduce file requests.
+2. Fixed google fonts api issue.
+
+* Version 4.1.4
+***************************************
+1. Optimized the code for page speed. 
+
+* Version 4.1.3
+***************************************
+1. Fixed the error in the theme. 
+
+* Version 4.1.2
+***************************************
+1. Added Colorway sites video.
+
+* Version 4.1.1
+***************************************
+1. Added popup video button.
+
+* Version 4.1.0
+***************************************
+1. Updated colorway logo.
+2. Updated Screenshot
+
+* Version 4.0.9
+***************************************
+1. Added Colorway Sites plugin admin notice.
+
+* Version 4.0.8
+***************************************
+1. Changed Some text in colorway options.
+
+* Version 4.0.7
+***************************************
+1. Fixed Blog and page sidebar layout responsive issue.
+2. Added controls to change read now button border color.
+
+* Version 4.0.6
+***************************************
+1. Enhanced styling for the Woocommerce pages.
+
+* Version 4.0.5
+***************************************
+1. Gutenberg Support: Wide and full width support.
+2. Added Excerpt length control in customizer.
+3. Added control to change read now button text.
+
+* Version 4.0.4
+***************************************
+1. Fixed the footer layout issue.
+2. Fixed php errors.
+
+* Version 4.0.3
+***************************************
+1. Fixed elementor border color issue.
+2. Fixed the menu link customizer control and menu button customizer control.
+
+* Version 4.0.2
+***************************************
+1. Fixed the menu issue.
+
+* Version 4.0.1
+***************************************
+1. Fixed the Hamburger menu scrolling issue.
+
+* Version 4.0.0
+***************************************
+1. Fixed Font Family issue.
+
+* Version 3.9.9
+***************************************
+1. Fixed active nav menu background color issue.
+
+* Version 3.9.8
+***************************************
+1. Fixed Button Border radius issue.
+2. Changed the Button arrow icon.
+3. Updated Colorway pot file.  
+
+* Version 3.9.7
+***************************************
+1. Added hover and background color control in customizer for sticky nav menu. 
+
+* Version 3.9.6
+***************************************
+1. Added Extra color control for sticky nav menu. 
+
+* Version 3.9.5
+***************************************
+1. 1. Fixed Some Styling issues related to multi level nav menu.
+
+* Version 3.9.4
+***************************************
+1. Fixed Some Styling issues related to nav menu.
+
+* Version 3.9.3
+***************************************
+1. Added Controls for Read more button.
+2. Changed default settings for excerpt.
+
+* Version 3.9.2
+***************************************
+1. Added Controls for Read more button.
+2. Fixed Some Styling issues.
+
+* Version 3.9.1
+***************************************
+1. Fixed customizer line-height issue.
+2. Added Some Styling for woocommerce product page.
+
+* Version 3.9.0
+***************************************
+1. Fixed Some Styling issues for mobile view.
+2. Added control for line-height.
+
+* Version 3.8.9
+***************************************
+1. Fixed Some Styling issues.
+2. Added additional information in customizer.
+
+* Version 3.8.8
+***************************************
+1. Fixed Some Styling issues.
+
+* Version 3.8.7
+***************************************
+1. Fixed Some Woocommerce Support issues.
+
+* Version 3.8.6
+***************************************
+1. Added Woocommerce Support.
+
+* Version 3.8.5
+***************************************
+1. Fixed Typography and styling issues.
+
+* Version 3.8.4
+***************************************
+1. Fixed some styling issues.
+
+* Version 3.8.3
+***************************************
+1. Fixed some styling issues.
+
+* Version 3.8.2
+***************************************
+1. Image Size Optimized.
+
+* Version 3.8.1
+***************************************
+1. Added Logo for Sticky Header.
+2. Fixed Blog image issues.
+
+* Version 3.7.9
+***************************************
+1. Fixed some styling issues.
+
+* Version 3.7.8
+***************************************
+1. Improved Sticky Header Option Styles.
+
+* Version 3.7.3
+***************************************
+1. Added Alpha Color Picker.
+2. Fixed some styling issues.
+
+* Version 3.7.2
+***************************************
+1. Added Sticky Header Option.
+2. Added Page Content Width Option.
+3. Fixed some styling issues.
+
+* Version 3.7.0
+***************************************
+1. Fixed some minor issues.
+
+* Version 3.6.9
+***************************************
+1. Enhanced styling for the theme.
+
+* Version 3.6.8
+***************************************
+1. Enhanced styling for the theme.
+
+* Version 3.6.6
+***************************************
+1. Woocommerce Compatible.
+2. Fixed Home Page Blog Slider Excerpt Issue.
+
+* Version 3.6.5
+***************************************
+1. Fixed Footer and Container layout Issues.
+2. Fixed styling issues of Menu Button.
+
+* Version 3.6.4
+***************************************
+1. Fixed Footer layout Issues.
+
+* Version 3.6.2
+***************************************
+1. Improved Container Width layout Settings.
+2. Fixed Issues Related to Sanitization and Validation.
+
+* Version 3.6.1
+***************************************
+1. Header Styling Improved.
+2. Colorway Options page improved.
+
+* Version 3.6.0
+***************************************
+1. Added a new option in the customizer to resize the header.
+2. Added a new option in the customizer to upload the image in the footer section.
+
+* Version 3.5.9
+***************************************
+1. Fixed Header header logo and menu button styling issues.
+2. Feature area Enable/Disable issue fixed.
+
+* Version 3.5.8
+***************************************
+1. Fixed Header layout and button issues.
+
+* Version 3.5.7
+***************************************
+1.Fixed some styling issues of colorway option page.
+
+* Version 3.5.6
+***************************************
+1.Changed the styling of colorway option page.
+2. Fixed some customizer JS issues.
+
+* Version 3.5.5
+***************************************
+1. Fixed customizer JS issues and Range Slider CSS added.
+
+* Version 3.5.4
+***************************************
+1. Improved customizer live preview module.
+
+* Version 3.5.3
+***************************************
+1. Customizer JS added for some customizer elements.
+2. Mobile Menu Styling issues got fixed.
